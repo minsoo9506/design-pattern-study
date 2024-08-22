@@ -1,4 +1,4 @@
-package Strategy;
+package StrategyPattern;
 
 public class DuckDead extends Duck {
     public DuckDead() {

@@ -1,4 +1,4 @@
-package Strategy;
+package StrategyPattern;
 
 public class QuackMute implements QuackBehavior{
     public void quack() {
