@@ -14,3 +14,9 @@
   - 즉, subject 와 observer 는 느슨한 결합 (loosely coupled) 상태
 
 ![img](./02_observer_pattern.png)
+
+## decorator pattern (데코레이터 패턴)
+- 객체에 추가 요소를 동적으로 더할 수 있다.
+- 한 객체를 여러 개의 데코레이터로 감쌀 수 있다.
+
+![img](./03_decorator_pattern.png)
