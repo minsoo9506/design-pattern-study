@@ -54,3 +54,9 @@
 - 여러 클래스에서 공통으로 사용하는 메서드를 템플릿화하여 상위 클래스에서 abstract method 로 정의하고 하위 클래스에서 세부 동작 사항을 구현하는 것이다.
 
 ![img](./images/09_template_method_pattern.png)
+
+## Iterator pattern (반복자 패턴)
+- 컬랙션(그냥 객체들의 모음)의 구현 방법을 노출하지 않으면서 집합체 내의 모든 항목에 접근하는 방법을 제공한다.
+- java code 를 보면 각 메뉴들의 컬랙션이 구현되어 있는 방법이 다르지만 동일하게 iterator 를 사용하도록 해서 waitress 가 iterator 를 통해서 접근하도록 한다.
+
+## 컴포지트 패턴
